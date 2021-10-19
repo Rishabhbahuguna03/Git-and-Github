@@ -42,6 +42,7 @@ As Carpenter notes, because it allows for real-time collaboration, GitHub encour
 * Get the slides [here](https://glfmn.github.io/gh-slides/).
 
 ## Assesment
+* _[Repository link](https://github.com/sudip-mondal-2002/Git-and-Github)_
 * Fork this repository
 * Clone the forked repository
 * Choose your preffered language and update the code of the program.
